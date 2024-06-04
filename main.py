@@ -40,4 +40,4 @@ def clean_text(element):
     return element
 
 
-print(clean_text(main()))
+print((main()))
